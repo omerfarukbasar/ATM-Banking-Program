@@ -7,4 +7,4 @@ I have written most of the code, although there are some files that were provide
 as well as all of the IOHandler files
 
 Please note that this was only my second programming class, so my coding techniques and organization may not be as good as
-what I am currently capabale as of today.
+what I am currently capabale of as of today.
