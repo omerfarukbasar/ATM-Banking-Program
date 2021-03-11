@@ -1,4 +1,4 @@
-# improved-train
+# Intermediate-Programming-Banking-Project
 This repository contains some of the course work that I have worked on during my spring 2020 semester of intermediate programming.
 
 All of these files were done as individual labs that would eventually be completeted as a final project.
